@@ -50,6 +50,7 @@ body {
 }
 .pocetni-kvadar {
     background-color: wheat;
+    background-image: linear-gradient(to right,#762ca8,#1c3f70,#d44fe0,#8c325b,#a87cd6);
     height: 30px;
     border-radius: 15px;
     position: relative;
