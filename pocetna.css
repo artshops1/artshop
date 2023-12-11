@@ -4,3 +4,25 @@ body {
 .prvo-dugme {
     border-radius: 15px;
 }
+.prva-slika {
+    width: 200px;
+    border-radius: 20px;
+}
+.nesto1 {
+    background-color: white;
+    width: 200px;
+    border-radius: 20px;
+    height: 230px;
+    border: 2px solid black;
+    margin-top: 25px;
+
+}
+.text1 {
+    text-align: center;
+    margin-top: 1px;
+}
+.prvo-dugme1 {
+    border-radius: 10px;
+    margin-left: 49px;
+    margin-top: 1px;
+}

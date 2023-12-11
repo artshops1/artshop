@@ -1,0 +1,35 @@
+
+body {
+    background-color: #487948;
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Visina ekrana */
+    display: flex;
+     flex-direction: column; /* Postavi orijentaciju fleks kontejnera na kolonu */
+    align-items: flex-start; /* Poravnaj elemente prema levoj strani */
+ justify-content: center;
+}
+
+  .kvadar {
+  background-color: wheat;
+  width: 200px;
+  height: 290px;
+  border-radius: 20px;
+  margin: 10px auto; /* Postavi margine za centriranje */
+ }
+
+ .text-pasta1 {
+  text-align: center;
+}
+
+.naglasenje1 {
+ color: red;
+ text-align: center;
+  margin-top: 0px;
+}
+
+.prvo-dugme {
+border-radius: 15px;
+margin-top: 0px;
+margin-left: 0px;
+}
