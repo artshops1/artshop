@@ -5,17 +5,17 @@ body {
     border-radius: 15px;
 }
 .prva-slika {
-    width: 200px;
+    width: 180px;
     border-radius: 20px;
 }
 .nesto {
     background-color: white;
-    width: 200px;
+    width: 180px;
     border-radius: 20px;
     height: 239px;
     border: 2px solid black;
-    margin-top: 25px;
-
+    margin-top: 10px;
+    float: left;
 }
 .text1 {
     text-align: center;
@@ -23,6 +23,133 @@ body {
 }
 .prvo-dugme1 {
     border-radius: 10px;
-    margin-left: 49px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.nesto2 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.text2 {
+    text-align: center;
+    margin-top: 1px;
+}
+.prvo-dugme2 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.druga-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.pocetni-kvadar {
+    background-color: wheat;
+    height: 30px;
+    border-radius: 15px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.crna-linija1 {
+    background-color: black;
+    border: 1px solid black;
+}
+.text3 {
+    text-align: center;
+    margin-top: 1px;
+}
+.nesto3 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme3 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.treca-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.nesto4 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.prvo-dugme4 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.cetvrta-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.text4 {
+    text-align: center;
+    margin-top: 1px;
+}
+.crna-linija2 {
+    background-color: black;
+    border: 1px solid black;
+}
+.nesto5 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.text5 {
+    text-align: center;
+    margin-top: 1px;
+}
+.peta-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.nesto6 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.text6 {
+    text-align: center;
+    margin-top: 1px;
+}
+.sesta-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.prvo-dugme5 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.prvo-dugme6 {
+    border-radius: 10px;
+    margin-left: 36px;
     margin-top: 1px;
 }
