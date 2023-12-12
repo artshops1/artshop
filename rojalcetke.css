@@ -11,7 +11,7 @@ body {
 .kvadar {
     background-color: wheat;
     width: 200px;
-    height: 310px;
+    height: 348px;
     border-radius: 20px;
     margin: 10px auto; /* Postavi margine za centriranje */
 }
