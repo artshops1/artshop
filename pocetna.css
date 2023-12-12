@@ -154,3 +154,57 @@ body {
     margin-left: 36px;
     margin-top: 1px;
 }
+.crna-linija3 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.nesto7 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme7 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.text7 {
+    text-align: center;
+    margin-top: 1px;
+}
+.sedma-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.nesto8 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.osma-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.text8 {
+    text-align: center;
+    margin-top: 1px;
+}
+.prvo-dugme8 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.crna-linija4 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
