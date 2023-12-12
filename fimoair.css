@@ -11,7 +11,7 @@ body {
 .kvadar {
     background-color: wheat;
     width: 230px;
-    height: 490px;
+    height: 540px;
     border-radius: 20px;
     margin: 10px auto; /* Postavi margine za centriranje */
     border: 2px solid black;
@@ -22,7 +22,7 @@ body {
 .naglasenje1 {
     color: red;
     text-align: center;
-    margin-top: 0px;
+    margin-top: 59px;
 }
 .prvo-dugme2 {
     border-radius: 15px;
@@ -30,5 +30,5 @@ body {
     margin-left: 0px;
 }
 .linija {
-    margin-top: 90px;
+    margin-top: 110px;
 }
