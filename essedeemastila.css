@@ -12,9 +12,10 @@ body {
    .kvadar {
      background-color: wheat;
      width: 230px;
-     height: 420px;
+     height: 368px;
      border-radius: 20px;
      margin: 10px auto; /* Postavi margine za centriranje */
+     border: 2px solid black;
     }
    
    .text-pasta1 {
