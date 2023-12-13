@@ -10,8 +10,8 @@ body {
 }
 .kvadar {
     background-color: wheat;
-    width: 246px;
-    height: 564px;
+    width: 248px;
+    height: 569px;
     border-radius: 20px;
     margin: 10px auto; /* Postavi margine za centriranje */
     border: 2px solid black;
