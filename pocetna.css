@@ -208,3 +208,47 @@ body {
     border: 1px solid black;
     margin-top: 292px;
 }
+.deveta-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.text9 {
+    text-align: center;
+    margin-top: 19px;
+}
+.prvo-dugme9 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.nesto9 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.deseta-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.text10 {
+    text-align: center;
+    margin-top: 19px;
+}
+.prvo-dugme10 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.nesto10 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}

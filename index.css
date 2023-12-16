@@ -1,5 +1,7 @@
 body {
     background-color: #487948;
+    background-image: url(photos/pozadina.jpg);
+    background-size: cover;
     text-align: center;
     -moz-user-select: none;
     -webkit-user-select: none;
