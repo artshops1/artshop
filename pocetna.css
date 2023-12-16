@@ -342,3 +342,122 @@ body {
 .prvo-dugme12:hover{
     background-color: grey;
 }
+.crna-linija6 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.trinesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text13 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme13 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.nesto13 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme13:hover{
+    background-color: grey;
+}
+.cetrnesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text14 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme14 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.nesto14 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.prvo-dugme14:hover{
+    background-color: grey;
+}
+.crna-linija7 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.petnesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text15 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme15 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.nesto15 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme15:hover{
+    background-color: grey;
+}
+.crna-linija8 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.sesnesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text16 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme16 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.nesto16 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.prvo-dugme16:hover{
+    background-color: grey;
+}
