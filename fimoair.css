@@ -32,3 +32,6 @@ body {
 .linija {
     margin-top: 110px;
 }
+.prvo-dugme2:hover {
+    background-color: grey;
+}

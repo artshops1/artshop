@@ -285,3 +285,60 @@ body {
 .prvo-dugme:hover{
     background-color: grey;
 }
+.crna-linija5 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.jedanesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text11 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme11 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.nesto11 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme11:hover{
+    background-color: grey;
+}
+.dvanesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text12 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme12 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+}
+.nesto12 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.prvo-dugme12:hover{
+    background-color: grey;
+}

@@ -41,3 +41,9 @@ body {
     display: inline-block;
     width: 60px;
 }
+.drugo-dugme:hover {
+    background-color: gray;
+}
+.prvo-dugme:hover {
+    background-color: gray;
+}

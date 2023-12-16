@@ -33,3 +33,6 @@ body {
    margin-top: 0px;
    margin-left: 0px;
    }
+   .prvo-dugme2:hover {
+    background-color: grey;
+}

@@ -11,7 +11,7 @@ body {
 .kvadar {
     background-color: wheat;
     width: 230px;
-    height: 348px;
+    height: 600px;
     border-radius: 20px;
     margin: 10px auto; /* Postavi margine za centriranje */
     border: 2px solid black;
@@ -28,6 +28,9 @@ body {
     border-radius: 15px;
     margin-top: 0px;
     margin-left: 0px;
+}
+.linija {
+    margin-top: 58px;
 }
 .prvo-dugme2:hover {
     background-color: grey;

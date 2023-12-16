@@ -62,3 +62,6 @@ tr:nth-child(even) {
 .text6 {
     margin-top: 0px;
 }
+.prvo-dugme2:hover {
+    background-color: grey;
+}
