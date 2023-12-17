@@ -744,3 +744,172 @@ body {
     border: 1px solid black;
     margin-top: 292px;
 }
+.kvadar-text21 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.dvadesetprva-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 160px;
+}
+.text21 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme21 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto21 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme21:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.kvadar-text21 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text22 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.dvadesetdruga-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 160px;
+}
+.text22 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme22 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto22 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.kvadar-text22 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.prvo-dugme22:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.crna-linija11 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.kvadar-text23 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.dvadesettreca-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 160px;
+}
+.text23 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme23 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto23 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.kvadar-text23 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.prvo-dugme23:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.kvadar-text24 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.dvadesetcetvrta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 160px;
+}
+.text24 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme24 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto24 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.kvadar-text24 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.prvo-dugme24:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
