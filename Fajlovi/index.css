@@ -1,0 +1,51 @@
+body {
+    background-color: #487948;
+    background-image: url(photos/pozadina.jpg);
+    background-size: cover;
+    text-align: center;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.prvi-kvadrat {
+    background-color: wheat;
+    width: 150px;
+    height: 23px;
+    border-radius: 15px;
+    align-items: center;
+    display: inline-block;
+    background-image: linear-gradient(to right,#4287f5,#57f542,#e0f542,#f58a42);
+}
+.text {
+    text-align: center;
+    margin-top: 0px;
+}
+.drugi-kvadrat {
+    background-color: wheat;
+    width: 120px;
+    display: inline-block;
+    border-radius: 15px;
+    margin-top: 3px;
+    height: 23px;
+    background-image: linear-gradient(to right,#f58a42,#e0f542,#57f542,#4287f5);
+}
+.prvo-dugme {
+    border-radius: 15px;
+    height: 20px;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+.drugo-dugme {
+    border-radius: 15px;
+    height: 20px;
+    margin-left: 2px;
+    display: inline-block;
+    width: 60px;
+}
+.drugo-dugme:hover {
+    background-color: gray;
+}
+.prvo-dugme:hover {
+    background-color: gray;
+}
