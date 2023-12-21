@@ -1,0 +1,1248 @@
+body {
+    background-color: #487948;
+}
+.prvo-dugme {
+    border-radius: 15px;
+}
+.prva-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.nesto {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+    position: relative;
+}
+.text1 {
+    text-align: center;
+    margin-top: 1px;
+}
+.prvo-dugme1 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+    position: relative;
+}
+.nesto2 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+    position: relative;
+}
+.text2 {
+    text-align: center;
+    margin-top: 1px;
+}
+.prvo-dugme2 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+    position: absolute;
+}
+.druga-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.pocetni-kvadar {
+    background-color: wheat;
+    background-image: linear-gradient(to right,#762ca8,#1c3f70,#d44fe0,#8c325b,#a87cd6);
+    height: 30px;
+    border-radius: 15px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+}
+.crna-linija1 {
+    background-color: black;
+    border: 1px solid black;
+}
+.text3 {
+    text-align: center;
+    margin-top: 1px;
+}
+.nesto3 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme3 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.treca-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.nesto4 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.prvo-dugme4 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.cetvrta-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.text4 {
+    text-align: center;
+    margin-top: 1px;
+}
+.crna-linija2 {
+    background-color: black;
+    border: 1px solid black;
+}
+.nesto5 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.text5 {
+    text-align: center;
+    margin-top: 1px;
+}
+.peta-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.nesto6 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.text6 {
+    text-align: center;
+    margin-top: 1px;
+}
+.sesta-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.prvo-dugme5 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.prvo-dugme6 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.crna-linija3 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.nesto7 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme7 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.text7 {
+    text-align: center;
+    margin-top: 1px;
+}
+.sedma-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.nesto8 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.osma-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.text8 {
+    text-align: center;
+    margin-top: 1px;
+}
+.prvo-dugme8 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.crna-linija4 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.deveta-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.text9 {
+    text-align: center;
+    margin-top: 19px;
+}
+.prvo-dugme9 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto9 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.deseta-slika {
+    width: 180px;
+    border-radius: 20px;
+}
+.text10 {
+    text-align: center;
+    margin-top: 19px;
+}
+.prvo-dugme10 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto10 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.prvo-dugme10:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.prvo-dugme9:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.prvo-dugme8:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.prvo-dugme7:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.prvo-dugme6:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.prvo-dugme5:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.prvo-dugme4:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.prvo-dugme3:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.prvo-dugme2:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.prvo-dugme1:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.prvo-dugme:hover{
+    background-color: grey;
+}
+.crna-linija5 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.jedanesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text11 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme11 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto11 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme11:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.dvanesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text12 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme12 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto12 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.prvo-dugme12:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.crna-linija6 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.trinesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text13 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme13 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto13 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme13:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.cetrnesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text14 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme14 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto14 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.prvo-dugme14:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.crna-linija7 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.petnesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text15 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme15 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto15 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme15:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.crna-linija8 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.sesnesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text16 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme16 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto16 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.prvo-dugme16:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.sedamnesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text17 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme17 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto17 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme17:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.osamnesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text18 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme18 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto18 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.prvo-dugme18:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.crna-linija9 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.kvadar-text1 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text2 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text3 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text4 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text5 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text6 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text7 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text8 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text9 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text10 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text11 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text12 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text13 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text14 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text15 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text16 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text17 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text18 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text19 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.devetnesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 174px;
+}
+.text19 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme19 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto19 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme19:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.kvadar-text20 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.dvadeseta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 160px;
+}
+.text20 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme20 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto20 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.prvo-dugme20:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.kvadar-text20 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.crna-linija10 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.kvadar-text21 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.dvadesetprva-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 160px;
+}
+.text21 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme21 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto21 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.prvo-dugme21:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.kvadar-text21 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.kvadar-text22 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.dvadesetdruga-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 160px;
+}
+.text22 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme22 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto22 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.kvadar-text22 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.prvo-dugme22:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.crna-linija11 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.kvadar-text23 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.dvadesettreca-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 160px;
+}
+.text23 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme23 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto23 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.kvadar-text23 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.prvo-dugme23:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.kvadar-text24 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.dvadesetcetvrta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 160px;
+}
+.text24 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme24 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto24 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.kvadar-text24 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.prvo-dugme24:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.crna-linija12 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.kvadar-text25 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.dvadesetpeta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 160px;
+}
+.text25 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme25 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto25 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.kvadar-text25 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.prvo-dugme25:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.kvadar-text26 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.dvadesetsesta-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 160px;
+}
+.text26 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme26 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto26 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.kvadar-text26 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.prvo-dugme26:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.crna-linija13 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.kvadar-text27 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.dvadesetsedma-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 160px;
+}
+.text27 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme27 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto27 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: left;
+}
+.kvadar-text27 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.prvo-dugme27:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.kvadar-text28 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.dvadesetosma-slika {
+    width: 180px;
+    border-radius: 20px;
+    height: 160px;
+}
+.text28 {
+    text-align: center;
+    margin-top: 10px;
+}
+.prvo-dugme28 {
+    border-radius: 10px;
+    margin-left: 36px;
+    margin-top: 1px;
+    background-color: red;
+    background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+}
+.nesto28 {
+    background-color: white;
+    width: 180px;
+    border-radius: 20px;
+    height: 268px;
+    border: 2px solid black;
+    margin-top: 10px;
+    float: right;
+}
+.kvadar-text28 {
+    background-color: skyblue;
+    width: 170px;
+    border-radius: 40px;
+    margin-left: 5px;
+}
+.prvo-dugme28:hover{
+    background-color: grey;
+    background-image: linear-gradient(to right,#13bfba,#47bf13,#bf1f13,#b413bf,#bfba13);
+}
+.crna-linija14 {
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 292px;
+}
+.krug {
+    border-radius: 50px;
+    background-color: blue;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    animation: moveLeftRight 4s linear infinite;
+}
+@keyframes moveLeftRight {
+    0%, 100% {
+        left: 0; /* Početna i krajnja tačka, levo */
+    }
+    50% {
+        left: 98%; /* Sredina, desno - 90% širine ekrana */
+    }
+}
+.sadrzaj {
+    background-color: #52514f;
+    width: 220px;
+    height: 400px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    float: left;
+}
+.modal {
+    position: absolute;
+    z-index: 1;
+    float: left;
+}
+.text-modal1 {
+    text-align: center;
+    color: white;
+}
+.glavni-text1 {
+    text-align: center;
+    color: white;
+}
+.zatvori {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+    color: white;
+    cursor: pointer;
+}
+.modal-kvadar {
+    width: 140px;
+    height: 20px;
+    background-color: black;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+
+
+.sadrzaj2 {
+    background-color: #52514f;
+    width: 220px;
+    height: 400px;
+    border-radius: 20px;  
+    border: 2px solid black;
+    margin-left: 0px;
+    float: right;
+}
+.modal2 {
+    position: relative;
+    z-index: 1;
+    float: right;
+}
+.text-modal2 {
+    text-align: center;
+    color: white;
+}
+.glavni-text2 {
+    text-align: center;
+    color: white;
+}
+.zatvori2 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    color: white;
+    cursor: pointer;
+}
+.modal-kvadar2 {
+    width: 140px;
+    height: 20px;
+    background-color: black;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+
+.sadrzaj3 {
+    background-color: #52514f;
+    width: 220px;
+    height: 400px;
+    border-radius: 20px;  
+    border: 2px solid black;
+    margin-left: 0px;
+    float: left;
+}
+.modal3 {
+    position: relative;
+    z-index: 1;
+    float: left;
+}
+.text-modal3 {
+    text-align: center;
+    color: white;
+}
+.glavni-text3 {
+    text-align: center;
+    color: white;
+}
+.zatvori3 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    color: white;
+    cursor: pointer;
+}
+.modal-kvadar3 {
+    width: 140px;
+    height: 20px;
+    background-color: black;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-left: 40px;
+}
