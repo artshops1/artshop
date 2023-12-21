@@ -17,18 +17,33 @@
         <div class="kvadar-text1">
         <p class="text1">Gusta pasta</p>
     </div>
-        <a href="gustapasta.html">
-            <button class="prvo-dugme1" title="vise o produktu"><b>Više o produktu</b></button>
-        </a>
+    <div class="modal">
+        <div class="sadrzaj" id="modalniProzor">
+            <div class="modal-kvadar">
+            <h3 class="glavni-text1">Gusta pasta</h3>
+        </div>
+            <p class="text-modal1">Gusta pasta na bazi vode koja stvara vodootpornu površinu.Proizvod se koristi za kreiranje 3D slika.Proizvod može poslužiti kao imitacija snega.Promućkajte pre upotrebe!Proizvod nije otporan na mraz</p>
+            <span class="zatvori" onclick="zatvoriModal()">&times;</span>
+        </div>
     </div>
+            <button class="prvo-dugme1" title="vise o produktu" id="otvoriModalBtn"><b>Više o produktu</b></button>
+    </div>
+
     <div class="nesto2">
         <img src="photos/rojalcetka.png" class="druga-slika" title="royal cetke">
         <div class="kvadar-text2">
         <p class="text2">Royal četke</p>
     </div>
-        <a href="rojalcetke.html">
-            <button class="prvo-dugme2" title="vise o produktu"><b>Više o produktu</b></button>
-        </a>
+    <div class="modal2">
+        <div class="sadrzaj2" id="modalniProzorDrugi">
+             <div class="modal-kvadar2">
+                <h3 class="glavni-text2">Royal cetke</h3>
+            </div>
+            <p class="text-modal2">ROYAL ČETKA: Akua-Flo četke. Slikanje vodenim bojama i medijumima rastvorljivim u vodi nikada nije bilo lakše! Svaka od ovih četkica ima rezervoar za vodu koji se može ponovo napuniti i sintetičke taklon vlakna. U svakom pakovanju su uključene tri četke – po jedna sa malim, srednjim i velikim vrhom.</p>
+            <span class="zatvori2" onclick="zatvoriModalDrugi()">&times;</span>
+        </div>
+    </div>
+            <button class="prvo-dugme2" title="vise o produktu" id="otvoriModalDrugiBtn"><b>Više o produktu</b></button>
     </div>
     <br>
     <br>
@@ -51,9 +66,20 @@
         <div class="kvadar-text3">
         <p class="text3">Dječija šminka</p>
     </div>
-        <a href="sminkazadjecu.html">
-            <button class="prvo-dugme3" title="vise o produktu"><b>Više o produktu</b></button>
-        </a>
+        <div class="modal3">
+            <div class="sadrzaj3" id="modalniProzorTreci">
+                <div class="modal-kvadar3">
+                    <h3 class="glavni-text3">Djecija sminka</h3>
+                    </div>
+                    <p class="text-modal3">Vila i leptir set markica
+                        Hipoalergena dječja šminka bez parfema na vodenoj bazi prilagođena koži.
+                        Lako se uklanja sapunom i vodom
+                        Kazališna šminka – za animaciju, karneval, noć vještica, škole i vrtiće
+                        Sukladan je EU Uredbi o igračkama i kozmetici i sadrži samo sastojke s kozmetičkim odobrenjem.</p>
+                    <span class="zatvori3" onclick="zatvoriModalTreci()">&times;</span>
+        </div>
+    </div>
+            <button class="prvo-dugme3" title="vise o produktu" id="otvoriModalTreciBtn"><b>Više o produktu</b></button>
     </div>
     <div class="nesto4">
         <img src="photos/setboje.png" class="cetvrta-slika">
@@ -309,5 +335,6 @@
     </div>
     <hr class="crna-linija14">
     <div class="krug"></div>
+    <script src="index.js"></script>
 </body>
 </html>

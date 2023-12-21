@@ -16,6 +16,7 @@ body {
     border: 2px solid black;
     margin-top: 10px;
     float: left;
+    position: relative;
 }
 .text1 {
     text-align: center;
@@ -26,6 +27,7 @@ body {
     margin-left: 36px;
     margin-top: 1px;
     background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+    position: relative;
 }
 .nesto2 {
     background-color: white;
@@ -35,6 +37,7 @@ body {
     border: 2px solid black;
     margin-top: 10px;
     float: right;
+    position: relative;
 }
 .text2 {
     text-align: center;
@@ -45,6 +48,7 @@ body {
     margin-left: 36px;
     margin-top: 1px;
     background-image: linear-gradient(to right,#bf1f13,#47bf13,#13bfba);
+    position: absolute;
 }
 .druga-slika {
     width: 180px;
@@ -1108,4 +1112,137 @@ body {
     50% {
         left: 98%; /* Sredina, desno - 90% širine ekrana */
     }
+}
+.sadrzaj {
+    background-color: #52514f;
+    width: 220px;
+    height: 400px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    float: left;
+}
+.modal {
+    position: absolute;
+    z-index: 1;
+    float: left;
+}
+.text-modal1 {
+    text-align: center;
+    color: white;
+}
+.glavni-text1 {
+    text-align: center;
+    color: white;
+}
+.zatvori {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+    color: white;
+    cursor: pointer;
+}
+.modal-kvadar {
+    width: 140px;
+    height: 20px;
+    background-color: black;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+
+
+.sadrzaj2 {
+    background-color: #52514f;
+    width: 220px;
+    height: 400px;
+    border-radius: 20px;  
+    border: 2px solid black;
+    margin-left: 0px;
+    float: right;
+}
+.modal2 {
+    position: relative;
+    z-index: 1;
+    float: right;
+}
+.text-modal2 {
+    text-align: center;
+    color: white;
+}
+.glavni-text2 {
+    text-align: center;
+    color: white;
+}
+.zatvori2 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    color: white;
+    cursor: pointer;
+}
+.modal-kvadar2 {
+    width: 140px;
+    height: 20px;
+    background-color: black;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+
+.sadrzaj3 {
+    background-color: #52514f;
+    width: 220px;
+    height: 400px;
+    border-radius: 20px;  
+    border: 2px solid black;
+    margin-left: 0px;
+    float: left;
+}
+.modal3 {
+    position: relative;
+    z-index: 1;
+    float: left;
+}
+.text-modal3 {
+    text-align: center;
+    color: white;
+}
+.glavni-text3 {
+    text-align: center;
+    color: white;
+}
+.zatvori3 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    color: white;
+    cursor: pointer;
+}
+.modal-kvadar3 {
+    width: 140px;
+    height: 20px;
+    background-color: black;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-left: 40px;
 }
