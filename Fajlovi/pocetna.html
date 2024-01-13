@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="pocetna.css">
     <title>Art Shop S</title>
+    <link rel="icon" href="photos/logo.png" type="image/x-icon">
 </head>
 <body>
     <div class="pocetni-kvadar">
@@ -86,9 +87,18 @@
         <div class="kvadar-text4">
         <p class="text4">Set boja</p>
     </div>
-        <a href="setboja.html">
-            <button class="prvo-dugme4" title="vise o produktu"><b>Više o produktu</b></button>
-        </a>
+    <div class="modal4">
+        <div class="sadrzaj4" id="modalniProzorCetvrti">
+            <div class="modal-kvadar4">
+                <h3 class="glavni-text4">Set boja</h3>
+            </div>
+            <p class="text-modal4"><b>Jedna olovka - dva vrha za uske i široke poteze
+                Za izražajno pisanje i ukrasne dizajne
+                Širina linija cca. 3,5 mm i cca. 2,0 mm</b></p>
+            <span class="zatvori4" onclick="zatvoriModalCetvrti()">&times;</span>
+        </div>
+    </div>
+            <button class="prvo-dugme4" title="vise o produktu" id="otvoriModalCetvrtiBtn"><b>Više o produktu</b></button>
     </div>
     <br>
     <br>
@@ -111,37 +121,81 @@
         <div class="kvadar-text5">
         <p class="text5">White Nights </p>
     </div>
-        <a href="extrafine.html">
-            <button class="prvo-dugme5" title="vise o produktu"><b>Više o produktu</b></button>
-        </a>
+    <div class="modal5">
+        <div class="sadrzaj5" id="modalniProzorPeti">
+            <div class="modal-kvadar5">
+                <h3 class="glavni-text5">White Nights</h3>
+            </div>
+            <p class="text-modal5">White Nights extra-fine artists vodene boje proizvedene su od fino raspršenih i svijetlo postojanih pigmenata s dodatkom gume arabike. To rezultira kvalitetnom bojom, dajući umjetnicima punu sigurnost pri dovršavanju važnih umjetničkih djela. Set uključuje kadmij žutu srednju, kadmij limun, žuti oker, zlatnu, Tizian crvenu ili narančastu boju, kadmij crveno svjetlo, crveni oker ili shakhnazarskaza crvenu, englesku crvenu, karmin, Madder Lake crveno svjetlo, ljubičastu, ultramarin, jarko plavu ili azurnu, kobalt Plava, indigo, žućkasto zelena, smaragdno zelena ili originalna zelena, zelena, sirova sijena, umber, spaljena umber, marsovsko smeđa, sepija, neutralna crna i vjeverica br. 3.</p>
+            <span class="zatvori5" onclick="zatvoriModalPeti()">&times;</span>
+        </div>
+    </div>
+            <button class="prvo-dugme5" title="vise o produktu" id="otvoriModalPetiBtn"><b>Više o produktu</b></button>
     </div>
     <div class="nesto6">
         <img src="photos/Essedeemastilo.png" class="sesta-slika">
         <div class="kvadar-text6">
         <p class="text6">Essedee mastila</p>
     </div>
-        <a href="essedeemastila.html">
-            <button class="prvo-dugme6" title="vise o produktu"><b>Više o produktu</b></button>
-        </a>
+
+    <div class="modal6">
+        <div class="sadrzaj6" id="modalniProzorSesti">
+            <div class="modal-kvadar6">
+                <h3 class="glavni-text6">Essedee mastila</h3>
+            </div>
+            <p class="text-modal6">Essdee mastila za štampanje na tkaninama su specijalno formulisana da bi lino štampanje na tkanini bila zabavna i uspešna aktivnost u kojoj svako može da uživa. Ova visoko viskozna mastila će vam ostaviti hrabar i živopisan otisak koji je mekan na dodir i dugotrajan nakon što se zagreje. Mastila su na bazi vode, što znači da su laka za upotrebu i čišćenje samo sapunom i vodom.
+                <span class="zatvori6" onclick="zatvoriModalSesti()">&times;</span>
+            </p>
+        </div>
+    </div>
+            <button class="prvo-dugme6" title="vise o produktu" id="otvoriModalSestiBtn"><b>Više o produktu</b></button>
     </div>
     <hr class="crna-linija3">
     <div class="nesto7">
         <img src="photos/fimoair.png" class="sedma-slika">
         <div class="kvadar-text7">
         <p class="text7">Fimo Air</p>
+        </div>
+
+        <div class="modal7">
+            <div class="sadrzaj7" id="modalniProzorSedmi">
+                <div class="modal-kvadar7">
+                    <h3 class="glavni-text7">Fimo Air</h3>
+                </div>
+                <p class="text-modal7">FIMO Air je niz gline koja se suši na zraku gotove za upotrebu i idealan je za umjetnost, slobodno vrijeme i hobi, kao i za obrazovne svrhe. Iako se ove gline za modeliranje ne moraju peći u pećnici, one su ipak dimenzionalno stabilne da se mogu modificirati nakon što se stvrdnu/osuše nakon 24 sata. Kreativnost je neograničena s ovom glinom poput porculana!
+
+                    Glina za modeliranje koje se suše na zraku.
+                    Bez mirisa.
+                    Najmanje 95% prirodnih sirovina.
+                    Ugodan na osjećaj, ne lijepi se.
+                    Nije potreban proces spaljivanja.
+                    Glatka konzistencija.
+                    Očvrsli modeli se mogu modificirati (turpijati, brusiti, bušiti, bojati, lakirati).
+                    Pakovanje u foliju sprječava isušivanje gline.</p>
+                    <spam class="zatvori7" onclick="zatvoriModalSedmi()">&times;</spam>
+            </div>
+        </div>
+
+            <button class="prvo-dugme7" title="vise o produktu" id="otvoriModalSedmiBtn"><b>Više o produktu</b></button>
     </div>
-        <a href="fimoair.html">
-            <button class="prvo-dugme7" title="vise o produktu"><b>Više o produktu</b></button>
-        </a>
-    </div>
+
     <div class="nesto8">
         <img src="photos/bijelipremaz.png" class="osma-slika">
         <div class="kvadar-text8">
         <p class="text8">Bijeli premaz</p>
     </div>
-        <a href="bijelipremaz.html">
-            <button class="prvo-dugme8" title="vise o produktu"><b>Više o produktu</b></button>
-        </a>
+
+    <div class="modal8">
+        <div class="sadrzaj8" id="modalniProzorOsmi">
+            <div class="modal-kvadar8">
+                <h3 class="glavni-text8">Bijeli Premaz</h3>
+            </div>
+            <p class="text-modal8">Multitehnički primer spreman za upotrebu, neprozirni mat. GESSO je fleksibilni bijeli premaz koji se može izravno nanositi kao vezni temelj na sve nemasne podloge (platno, papir, kamen, drvo, gips). Služi kao podloga za sve boje. Suši se 30 minuta, može se brusiti nakon...</p>
+            <span class="zatvori8" onclick="zatvoriModalOsmi()">&times;</span>
+        </div>
+    </div>
+
+            <button class="prvo-dugme8" title="vise o produktu" id="otvoriModalOsmiBtn"><b>Više o produktu</b></button>
     </div>
     <hr class="crna-linija4">
     <div class="nesto9">
@@ -149,18 +203,50 @@
         <div class="kvadar-text9">
         <p class="text9">Gel medija</p>
     </div>
-        <a href="amsterdamgel.html">
-            <button class="prvo-dugme9" title="vise o produktu"><b>Više o produktu</b></button>
-        </a>
+    <div class="modal9">
+        <div class="sadrzaj9" id="modalniProzorDeveti">
+            <div class="modal-kvadar9">
+                <h3 class="glavni-text9">Gel medija</h3>
+            </div>
+            <p class="text-modal9">Ako tražite dodatni volumen i dimenziju, pokušajte pomiješati svoje akrilne boje s jednim od amsterdamskih gel medija. Ovi mediji nude oštriju, pastiriju teksturu i daju vašem radu, ovisno o odabranom gelu, sjajniju ili više mat završnicu. Dodavanje veće količine ovog medija rezultirat će većom transparentnošću boje. Zbog svojih adhezivnih svojstava, ovi gelovi također dobro funkcioniraju za različite tehnike miješanih medija.
+
+                Amsterdam gel medium
+                
+                Dostupan u verzijama gela, teškog gela i ekstra teškog gela u mat i sjajnoj završnici
+                Čini akrilnu boju gušćom
+                Omogućuje nanošenje iznimno debelih slojeva akrilne boje u jednom potezu
+                Prikladno i za tehnike mješovitih medija
+                Mliječno bijelo kada je mokro, suši se bezbojno i prozirno
+                Vodootporan kada se osuši
+                Očistite pribor vodom
+                Nanositi na temperaturi iznad 10°C i čuvati zaštićeno od smrzavanja</p>
+                <span class="zatvori9" onclick="zatvoriModalDeveti()">&times;</span>
+        </div>
+    </div>
+
+            <button class="prvo-dugme9" title="vise o produktu" id="otvoriModalDevetiBtn"><b>Više o produktu</b></button>
     </div>
     <div class="nesto10">
         <img src="photos/ladoga.png" class="deseta-slika">
         <div class="kvadar-text10">
         <p class="text10">Uljane boje Ladoga</p>
     </div>
-        <a href="ladoga.html">
-            <button class="prvo-dugme10" title="vise o produktu"><b>Više o produktu</b></button>
-        </a>
+    <div class="modal10">
+        <div class="sadrzaj10" id="modalniProzorDeseti">
+            <div class="modal-kvadar10">
+                <h3 class="glavni-text10">Uljane boje Ladoga</h3>
+            </div>
+            <p class="text-modal10">Uljane boje “Ladoga” proizvodi firma umjetničkih boja Nevskaya Palitra, koja se nalazi u Sankt Peterburgu. Firma već više od 80 godina proizvodi proizvode za profesionalne umjetnike i kreativne entuzijaste.
+
+                U paleti uljanih boja Ladoga skupi anorganski pigmenti zamijenjeni su organskim pomoću pažljivo odabranih omjera komponenti, dok analozi u potpunosti odgovaraju izvornim bojama. Radi praktičnosti korisnika, boje koje su nastale zamjenom pigmenata označene su na naljepnici slovom “A” (analogno).
+                
+                Ladoga uljane boje dobro se međusobno miješaju. Paleta boja sastoji se od boja koje umjetnici najviše traže. Boje se prikazuju pojedinačno (u tubama od 46, 60 i 120 mililitara), kao iu setovima (5, 6, 8, 10, 12 boja).</p>
+                <span class="zatvori10" onclick="zatvoriModalDeseti()">&times;</span>
+        </div>
+    </div>
+
+
+            <button class="prvo-dugme10" title="vise o produktu" id="otvoriModalDesetiBtn"><b>Više o produktu</b></button>
     </div>
     <hr class="crna-linija5">
     <div class="nesto11">
@@ -168,18 +254,41 @@
         <div class="kvadar-text11">
         <p class="text11">Metal leaf</p>
     </div>
-        <a href="metalleaf.html">
-            <button class="prvo-dugme11" title="vise o produktu"><b>Više o produktu</b></button>
-        </a>
+    <div class="modal11">
+        <div class="sadrzaj11" id="modalniProzorJedanesti">
+            <div class="modal-kvadar11">
+                <h3 class="glavni-text11">Metal Leaf</h3>
+            </div>
+            <p class="text-modal11">Zlatne ploče se koriste za stvaranje metalnih efekata na raznim površinama. Zlatna folija je prikladna za papir, polistiren, drvo, metal, staklo... Dobiveni efekt je zaista iznenađujući i imate dojam da radite s pravim zlatnim listićima. Ako se kriške pokidaju tijekom rada, nema veze, opet naneseš tanak sloj ljepila i staviš malu pozlatu. Pozlaćenje stvara čvrstu metalnu površinu koja izgleda stvarno uvjerljivo - slično onome što možete vidjeti na zlatnim ikonama.
+
+                Najprije nanesite tanak sloj posebnog ljepila za pozlatu na dekoriranu površinu, pustite da se ljepilo osuši dok ne postane prozirno, zatim nježno nanesite pozlatu - možete koristiti i kistom ili pincetom - i pažljivo je zagladite suhom četkom. Fiksirati sjajnim lakom na tanju podlogu. Ako odlučite ne popraviti pozlatu, očekujte da će površina s vremenom poprimiti više mat učinak.
+                
+                Zlátenka će biti posebno cijenjena za božićne ili uskršnje kreacije. Ali možete ga koristiti i za scrapbooking, izradu pozivnica za vjenčanje, ploče, pozlaćivanje fontova,...</p>
+                <span class="zatvori11" onclick="zatvoriModalJedanesti()">&times;</span>
+        </div>
+    </div>
+
+            <button class="prvo-dugme11" title="vise o produktu" id="otvoriModalJedanestiBtn"><b>Više o produktu</b></button>
     </div>
     <div class="nesto12">
         <img src="photos/setzaskiciranje.png" class="dvanesta-slika">
         <div class="kvadar-text12">
         <p class="text12">Set za skiciranje</p>
     </div>
-        <a href="setzaskiciranje.html">
-            <button class="prvo-dugme12" title="vise o produktu"><b>Više o produktu</b></button>
-        </a>
+    <div class="modal12">
+        <div class="sadrzaj12" id="modalniProzorDvanesti">
+            <div class="modal-kvadar12">
+                <h3 class="glavni-text12">Set za skiciranje</h3>
+            </div>
+            <p class="text-modal12">Set za skiciranje i crtanje kompanije Royal & Langnickel idealan je za studente i umjetnike. Set sadrži veliku kolekciju olovaka u boji, grafitnih olovaka i ugljenih olovaka s vodičem za umjetnike koji će svakom ljubitelju umjetnosti pomoći da nauči više o specifičnim tehnikama skiciranja i crtanja. Sve u prekrasnoj drvenoj torbici.
+
+                Dimenzije paketa: 337 mm x 162 mm x 51 mm
+                Sadržaj paketa: 12 Olovke u boji, 6 Grafitne olovke, 3 Ugljene olovke, 3 Patrljci za miješanje, 1 Maneken (4,5 in),1 Lenjir, 1 Brusni blok, 1 Gumica, 1 Ostrilo, 1 Vodič za početnike Knjižica (skiciranje i crtanje) ), 1 Podloga za crtanje (5 in x 7 in) 1 drvena torba za nošenje</p>
+                <span class="zatvori12" onclick="zatvoriModalDvanesti()">&times;</span>
+        </div>
+    </div>
+
+            <button class="prvo-dugme12" title="vise o produktu" id="otvoriModalDvanestiBtn"><b>Više o produktu</b></button>
     </div>
     <hr class="crna-linija6">
     <div class="nesto13">
@@ -334,7 +443,7 @@
         </a>
     </div>
     <hr class="crna-linija14">
-    <div class="krug"></div>
     <script src="index.js"></script>
 </body>
 </html>
+<!--Desinged by Maksim Vico-->
